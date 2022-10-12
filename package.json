@@ -1,0 +1,23 @@
+{
+  "name": "testingpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConMint/TestingPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConMint/TestingPractice/issues"
+  },
+  "homepage": "https://github.com/ConMint/TestingPractice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.19.4",
+    "jest": "^29.1.2"
+  }
+}
